@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nunezm
 - 👀 I’m interested in Qlik
-- 🌱 I’m currently learning vmWare, FortiGate
+- 🌱 I’m currently learning vmWare, FortiGate, Docker, Ubuntu
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
